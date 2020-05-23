@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPO_URL="https://raw.githubusercontent.com/xlucas/go-vim-install/master"
+REPO_URL="https://raw.githubusercontent.com/amscad/go-vim-install/master"
 DEPS_URL="$REPO_URL/deps"
 RESR_URL="$REPO_URL/resources"
 
